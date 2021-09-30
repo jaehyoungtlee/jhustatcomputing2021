@@ -299,7 +299,7 @@ For your homework submission
 In this part, we will apply the functions we wrote in Part 1 to our rainfall data starting with our wrangled `df` data from Part 2.
 
 1. First, filter for only years including 2014 and onwards.
-2. For a given city and for a given year, calculate the sample mean (using your function `sample_mean()`), the sample standard deviation (using your function `sample_sd()`), and a 95% confidence interval for the average rainfall (using your function `calculate_CI()`). Specifically, you should add two columns in this summarized dataset: a column titled `lower_bound` and a column titled `upper_bound` containing the lower and upper bounds for you CI that you calculated (using your function `calculate_CI()`). 
+2. For a given city and for a given year, calculate the sample mean (using your function `sample_mean()`), the sample standard deviation (using your function `sample_sd()`), and a 95% confidence interval for the average rainfall (using your function `calculate_CI()`). Specifically, you should add two columns in this summarized dataset: a column titled `lower_bound` and a column titled `upper_bound` containing the lower and upper bounds for the CI that you calculated (using your function `calculate_CI()`). 
 3. Call this summarized dataset `rain_df`. 
 
 ```{r}

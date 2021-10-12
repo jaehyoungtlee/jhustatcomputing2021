@@ -7,7 +7,69 @@
     <description>Course website for Statistical Computing (JHSPH Biostatistics 140.776 Fall 2021)
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Strategies to deal with large data in R</title>
+      <dc:creator>Stephanie Hicks</dc:creator>
+      <link>https://stephaniehicks.com/jhustatcomputing2021/posts/2021-10-12-dealing-with-large-data</link>
+      <description>Introduction to dealing with large data in R.</description>
+      <category>module 2</category>
+      <category>week 7</category>
+      <category>large data</category>
+      <category>programming</category>
+      <category>R</category>
+      <category>tidyverse</category>
+      <category>SQL</category>
+      <guid>https://stephaniehicks.com/jhustatcomputing2021/posts/2021-10-12-dealing-with-large-data</guid>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://blog.codinghorror.com/content/images/2014/May/internet-latency-usa.png" medium="image" type="image/png"/>
+    </item>
+    <item>
+      <title>SQL Basics</title>
+      <dc:creator>Stephanie Hicks</dc:creator>
+      <link>https://stephaniehicks.com/jhustatcomputing2021/posts/2021-10-12-sql-basics</link>
+      <description>Introduction to SQL basics in R</description>
+      <category>module 2</category>
+      <category>week 7</category>
+      <category>large data</category>
+      <category>programming</category>
+      <category>R</category>
+      <category>tidyverse</category>
+      <category>SQL</category>
+      <guid>https://stephaniehicks.com/jhustatcomputing2021/posts/2021-10-12-sql-basics</guid>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://upload.wikimedia.org/wikipedia/commons/8/8d/Relational_model_concepts.png" medium="image" type="image/png"/>
+    </item>
+    <item>
+      <title>Regular expression</title>
+      <dc:creator>Stephanie Hicks</dc:creator>
+      <link>https://stephaniehicks.com/jhustatcomputing2021/posts/2021-10-07-regular-expressions</link>
+      <description>Introduction to working with character strings and regular expressions inR</description>
+      <category>module 2</category>
+      <category>week 6</category>
+      <category>tidyverse</category>
+      <category>R</category>
+      <category>programming</category>
+      <category>strings and regex</category>
+      <guid>https://stephaniehicks.com/jhustatcomputing2021/posts/2021-10-07-regular-expressions</guid>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://raw.githubusercontent.com/rstudio/cheatsheets/master/pngs/thumbnails/strings-cheatsheet-thumbs.png" medium="image" type="image/png"/>
+    </item>
+    <item>
+      <title>Working with dates and times</title>
+      <dc:creator>Stephanie Hicks</dc:creator>
+      <link>https://stephaniehicks.com/jhustatcomputing2021/posts/2021-10-05-working-with-dates-and-times</link>
+      <description>Introduction to lubridate for dates and times in R.</description>
+      <category>module 2</category>
+      <category>week 6</category>
+      <category>tidyverse</category>
+      <category>R</category>
+      <category>programming</category>
+      <category>dates and times</category>
+      <guid>https://stephaniehicks.com/jhustatcomputing2021/posts/2021-10-05-working-with-dates-and-times</guid>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://stephaniehicks.com/jhustatcomputing2021/posts/2021-10-05-working-with-dates-and-times/working-with-dates-and-times_files/figure-html5/unnamed-chunk-34-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
     <item>
       <title>Object Oriented Programming</title>
       <dc:creator>Stephanie Hicks</dc:creator>
@@ -20,6 +82,7 @@
       <category>functions</category>
       <guid>https://stephaniehicks.com/jhustatcomputing2021/posts/2021-09-30-object-oriented-programming</guid>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://d33wubrfki0l68.cloudfront.net/5d6b4926530f3da70f16b54dcdf1a55eb8fa3d71/703e0/diagrams/oo-venn.png" medium="image" type="image/png"/>
     </item>
     <item>
       <title>Building R Packages</title>

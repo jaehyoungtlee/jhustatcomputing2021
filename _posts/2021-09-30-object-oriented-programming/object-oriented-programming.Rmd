@@ -314,7 +314,7 @@ is_square(triangle_3)
 
 Seems to be working well! We also want `is_square()` to return `NA` when its
 argument is not a shape_S3. We can specify `is_square.default` as a last resort
-if there is not method associated with the object passed to `is_square()`.
+if there is no method associated with the object passed to `is_square()`.
 
 ```{r}
 is_square.default <- function(x){
@@ -526,7 +526,7 @@ ways. To create a new class in S4 you need to use the `setClass()` function.
 You need to specify two or three arguments for this function: `Class` which
 is the name of the class as a string, `slots`, which is a named list of
 attributes for the class with the class of those attributes specified, and
-optionally `contains` which includes the super-class of they class you are
+optionally `contains` which includes the super-class of the class you are
 specifying (if there is a super-class). Take look at the class definition for
 a `bus_S4` and a `party_bus_S4` below:
 
